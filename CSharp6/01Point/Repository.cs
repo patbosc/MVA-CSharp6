@@ -13,7 +13,6 @@ internal class Repository
         throw new NotImplementedException();
     }
 
-
     internal Task LogAsync(RepositoryException e)
     {
         throw new NotImplementedException();
